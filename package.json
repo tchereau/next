@@ -1,0 +1,17 @@
+{
+  "name": "next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "johacko",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^1.24.0",
+    "create-next-app": "^11.1.2",
+    "next": "^11.1.2",
+    "tailwindcss": "^2.2.17"
+  }
+}
